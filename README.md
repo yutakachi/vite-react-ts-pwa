@@ -1,1 +1,2 @@
-# vite-react-ts-pwa
+# vite-react-ts-pwa-template
+
